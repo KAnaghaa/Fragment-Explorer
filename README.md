@@ -60,12 +60,20 @@ Secondary Objectives:
 
 **Acknowledgement**
 
-1.**SASTRA DEEMED UNIVERSITY**: Under the guidance of Mr. Udayakumar .M (Asst. Professor - III, School of Chemical and Biotechnology)
-  
-3.**ScaffoldGraph from the paper**:  Scott, O. B., & Chan, A. W. E. (2020, March 31). ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees. Bioinformatics. https://doi.org/10.1093/bioinformatics/btaa219
+1.**SASTRA DEEMED UNIVERSITY**: I would like to express my sincere gratitude to Mr. Udayakumar.M (Asst. Professor - III, School of Chemical and Biotechnology) for his invaluable guidance throughout the development of Fragment Explorer: A Comprehensive Tool for Fragment-Based Drug Design - PyQt Application. His insights and support were instrumental in shaping this project into a successful endeavor.
+
+I first thank my guide Dr.N.T. Saraswathi, professor, SCBT-SASTRA Deemed to be University
+whose expertise was valuable in formulating my research work. She consistently steered me in
+the right direction whenever I needed it. I thank the review panel for their validation of my
+project and their valuable suggestions.
+I would like to thank Mr. J.Jeyanth, Mr. P.EsackiMuthu, and Mrs. K.Bhuvana for their support
+and guidance.
+I would like to thank SASTRA DEEMED UNIVERSITY for its infrastructure and facilities.
+
+2.**ScaffoldGraph from the paper**:  Scott, O. B., & Chan, A. W. E. (2020, March 31). ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees. Bioinformatics. https://doi.org/10.1093/bioinformatics/btaa219
    link: https://github.com/UCLCheminformatics/ScaffoldGraph
 
-4.**RDKit**: Open-source cheminformatics. https://www.rdkit.org/
+3.**RDKit**: Open-source cheminformatics. https://www.rdkit.org/
 
 
 
