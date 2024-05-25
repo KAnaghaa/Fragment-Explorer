@@ -11,6 +11,11 @@ A computational tool called Fragment Explorer was developed to improve and exped
 
 **Principal objective**
 Principal Objective: Aims to identify efficient fragments that have the potential to become drug candidates.
+
+**Try it know!**
+**Download Fragmeent Explorer 0.1** 
+Link: https://github.com/KAnaghaa/Fragment-Explorer/releases/tag/FragmentExplorer
+
 **Secondary Objective**
 Secondary Objectives:
 
