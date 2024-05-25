@@ -60,7 +60,7 @@ Secondary Objectives:
 
 **Acknowledgement**
 
-1. **SASTRA DEEMED UNIVERSITY**: Under the guidance of Mr. Udayakumar .M (Asst. Professor - III, School of Chemical and Biotechnology)
+1.**SASTRA DEEMED UNIVERSITY**: Under the guidance of Mr. Udayakumar .M (Asst. Professor - III, School of Chemical and Biotechnology)
   
 3.**ScaffoldGraph from the paper**:  Scott, O. B., & Chan, A. W. E. (2020, March 31). ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees. Bioinformatics. https://doi.org/10.1093/bioinformatics/btaa219
    link: https://github.com/UCLCheminformatics/ScaffoldGraph
