@@ -32,4 +32,33 @@ Secondary Objectives:
   a.Offers 2D representations of fragments to help comprehend their characteristics and relationships. Facilitates better decision-making and data interpretation for researchers.
 
   ![Screenshot 2024-05-24 120929](https://github.com/KAnaghaa/Fragment-Explorer/assets/137085789/02f4b25d-a247-44c2-872c-e37270fef40f)
-  
+
+
+
+
+**Reference:**
+1. Degen, J., Wegscheid-Gerlach, C., Zaliani, A., & Rarey, M. (2008, October 10). On the Art of Compiling and Using “Drug‐Like” Chemical Fragment Spaces. ChemMedChem. https://doi.org/10.1002/cmdc.200800178
+
+2. Lewell, X. Q., Judd, D. B., Watson, S. P., & Hann, M. M. (1998, April 11). RECAPRetrosynthetic Combinatorial Analysis Procedure: A Powerful New Technique for Identifying Privileged Molecular Fragments with Useful Applications in Combinatorial Chemistry. Journal of Chemical Information and Computer Sciences. https://doi.org/10.1021/ci970429i
+
+3.Cao, Y., Jiang, T., & Girke, T. (2008, July 1). A maximum common substructure-based algorithm for searching and predicting drug-like compounds. Bioinformatics. https://doi.org/10.1093/bioinformatics/btn186
+
+4.Kralj, S., Jukič, M., & Bren, U. (2023, April 18). Molecular Filters in Medicinal Chemistry. Encyclopedia. https://doi.org/10.3390/encyclopedia3020035
+
+5. Li, Q. (2020, August 5). Application of Fragment-Based Drug Discovery to Versatile Targets. Frontiers in Molecular Biosciences. https://doi.org/10.3389/fmolb.2020.00180
+
+6.Ivanov, N. N., Shulga, D. A., & Palyulin, V. A. (2023, May 24). Decomposition of Small Molecules for Fragment-Based Drug Design. Biophysica. https://doi.org/10.3390/biophysica3020024
+
+7.Konteatis, Z. (2021, March 26). What makes a good fragment in fragment-based drug discovery? Expert Opinion on Drug Discovery. https://doi.org/10.1080/17460441.2021.1905629
+
+8.Scott, O. B., & Chan, A. W. E. (2020, March 31). ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees. Bioinformatics. https://doi.org/10.1093/bioinformatics/btaa219
+
+**Acknowledgement**
+1. ScaffoldGraph from the paper:  Scott, O. B., & Chan, A. W. E. (2020, March 31). ScaffoldGraph: an open-source library for the generation and analysis of molecular scaffold networks and scaffold trees. Bioinformatics. https://doi.org/10.1093/bioinformatics/btaa219
+   link: https://github.com/UCLCheminformatics/ScaffoldGraph
+
+3. RDKit: Open-source cheminformatics. https://www.rdkit.org/
+
+
+
+
