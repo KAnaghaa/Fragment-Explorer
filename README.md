@@ -13,9 +13,11 @@ A computational tool called Fragment Explorer was developed to improve and exped
 Principal Objective: Aims to identify efficient fragments that have the potential to become drug candidates.
 **Secondary Objective**
 Secondary Objectives:
+
 1.**Fragmentation using BRICS and RECAP Algorithms**:
   a.Uses the BRICS and RECAP algorithms to efficiently fragment molecules. Facilitates the production of various sets of molecular fragments for investigation.
   b.Utilizing advanced algorithms to break down larger molecules into smaller, manageable fragments.
+  
 2.**Fragment Filtering**:
   a.Creates criteria-based filters, such as the rule of three. Sort fragments according to critical physicochemical and pharmacological characteristics.
 3.**Scaffold hopping**:
@@ -27,3 +29,4 @@ Secondary Objectives:
   a.Offers 2D representations of fragments to help comprehend their characteristics and relationships. Facilitates better decision-making and data interpretation for researchers.
 
   ![Screenshot 2024-05-24 120929](https://github.com/KAnaghaa/Fragment-Explorer/assets/137085789/02f4b25d-a247-44c2-872c-e37270fef40f)
+  
