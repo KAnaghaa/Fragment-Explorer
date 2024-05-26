@@ -15,6 +15,7 @@ Principal Objective: Aims to identify efficient fragments that have the potentia
 **Try it know!**
 **Download Fragmeent Explorer 0.1** 
 Link: https://github.com/KAnaghaa/Fragment-Explorer/releases/tag/FragmentExplorer
+![image](https://github.com/KAnaghaa/Fragment-Explorer/assets/137085789/27e3d09c-9fea-446d-92fb-ecd8362c877f)
 
 **Secondary Objective**
 Secondary Objectives:
